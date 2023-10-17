@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: sshaikh7788/project2
+        image: sshaikh7788/proj2
         ports:
         - containerPort: 80
